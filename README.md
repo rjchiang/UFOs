@@ -6,7 +6,7 @@ The purpose of this webpage and dynamic table is to provide a more in-depth anal
 ## Results
 The raw data from the Javascript array is displayed in a dynamic table where users can filter data of UFO sightings by date, city, state, country, and shape in the filter boxes on the left side of the webpage. 
 
-https://github.com/rjchiang/UFOs/blob/master/Screenshot%20(593).png
+!https://github.com/rjchiang/UFOs/blob/master/Screenshot%20(593).png
 
 ## Summary
 
